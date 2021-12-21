@@ -11,3 +11,8 @@
 
 - https://silvergatedelivery-restaurant-public-docs.s3.ap-southeast-1.amazonaws.com/privacy-policy.html
 - https://silvergatedelivery-restaurant-public-docs.s3.ap-southeast-1.amazonaws.com/tems-conditions.html
+
+## 子女贊助
+
+- https://silvergatedelivery-client-public-docs.s3.ap-southeast-1.amazonaws.com/privacy-policy.html
+- https://silvergatedelivery-client-public-docs.s3-ap-southeast-1.amazonaws.com/tems-conditions.html
